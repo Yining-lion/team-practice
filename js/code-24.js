@@ -1,3 +1,1 @@
-#users>.user-24{
-	color:blue;
-}
+document.querySelector(".user-24").textContent="我是藍色";
